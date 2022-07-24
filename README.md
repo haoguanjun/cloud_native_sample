@@ -30,3 +30,5 @@ ENTRYPOINT ["dotnet", "mywebapi.dll"]
 ```
 
 [Deploy a .NET Core API with Docker](https://dotnetplaybook.com/deploy-a-net-core-api-with-docker/)
+
+[Configure GitHub Actions](https://docs.docker.com/ci-cd/github-actions/)
