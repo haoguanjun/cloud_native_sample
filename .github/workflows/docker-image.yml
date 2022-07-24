@@ -15,4 +15,4 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Build the Docker image
-      run: docker build ./src/mywebapi --file Dockerfile --tag mywebapi:$(date +%s)
+      run: docker build ./src/mywebapi --file ./src/mywebapi/Dockerfile --tag mywebapi:$(date +%s)
