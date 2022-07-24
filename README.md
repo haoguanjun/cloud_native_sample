@@ -73,3 +73,10 @@ jobs:
           tags: ${{ secrets.DOCKER_HUB_USERNAME }}/mywebapi:latest
    
 ```
+
+## Reference
+
+* [Tutorial: Create and share a Docker app with Visual Studio Code](https://docs.microsoft.com/en-us/visualstudio/docker/tutorials/docker-tutorial)
+* [Tutorial: Persist data in a container app using volumes in VS Code](https://docs.microsoft.com/en-us/visualstudio/docker/tutorials/tutorial-persist-data-layer-docker-app-with-vscode)
+* [Tutorial: Deploy your Docker app to Azure](https://docs.microsoft.com/en-us/visualstudio/docker/tutorials/tutorial-deploy-docker-app-azure)
+* [Tutorial: Create multi-container apps with MySQL and Docker Compose](https://docs.microsoft.com/en-us/visualstudio/docker/tutorials/tutorial-multi-container-app-mysql)
