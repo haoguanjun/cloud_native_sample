@@ -28,3 +28,5 @@ COPY --from=publish /app/publish .
 
 ENTRYPOINT ["dotnet", "mywebapi.dll"]
 ```
+
+[Deploy a .NET Core API with Docker](https://dotnetplaybook.com/deploy-a-net-core-api-with-docker/)
